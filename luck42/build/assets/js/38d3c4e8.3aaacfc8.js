@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluck_42=self.webpackChunkluck_42||[]).push([[7934],{6259:e=>{e.exports=JSON.parse('{"permalink":"/dock42/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
