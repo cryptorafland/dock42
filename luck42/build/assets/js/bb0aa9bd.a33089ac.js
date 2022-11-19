@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkluck_42=self.webpackChunkluck_42||[]).push([[4443],{4896:e=>{e.exports=JSON.parse('{"permalink":"/dock42/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
